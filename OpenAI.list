@@ -1,7 +1,19 @@
-# https://openai.com/
-# created by blackmatrix7 
-# repo:https://github.com/blackmatrix7/ios_rule_script
+# NAME: OpenAI
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:20:00
+# HOST: 7
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 24
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 35
 HOST,browser-intake-datadoghq.com,OpenAI
+HOST,chat.openai.com.cdn.cloudflare.net,OpenAI
+HOST,openai-api.arkoselabs.com,OpenAI
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
+HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI
+HOST,production-openaicom-storage.azureedge.net,OpenAI
 HOST,static.cloudflareinsights.com,OpenAI
 HOST-SUFFIX,ai.com,OpenAI
 HOST-SUFFIX,algolia.net,OpenAI
@@ -20,14 +32,14 @@ HOST-SUFFIX,launchdarkly.com,OpenAI
 HOST-SUFFIX,oaistatic.com,OpenAI
 HOST-SUFFIX,oaiusercontent.com,OpenAI
 HOST-SUFFIX,observeit.net,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
+HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+HOST-SUFFIX,openaicom.imgix.net,OpenAI
 HOST-SUFFIX,segment.io,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
-HOST-SUFFIX,chat.openai.com,OpenAI
-HOST-SUFFIX,ios.chat.openai.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
 IP-CIDR,24.199.123.28/32,OpenAI
 IP-CIDR,64.23.132.171/32,OpenAI
 IP-ASN,20473,OpenAI
-
